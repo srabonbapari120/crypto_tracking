@@ -1,16 +1,7 @@
-# crypto_app
+# Crypto Tracking app
+<img width="192" alt="4" src="https://user-images.githubusercontent.com/131807373/235235381-0e5a326e-cd37-4144-8fc0-ac5c43bf0f27.PNG">
+<img width="185" alt="5" src="https://user-images.githubusercontent.com/131807373/235235398-82afbc98-080d-4398-afa0-60682fef2300.PNG">
+A new Flutter Crypto Tracking app Project.
+This project is a starting point for a Flutter application. This application State management using bloc state management.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
